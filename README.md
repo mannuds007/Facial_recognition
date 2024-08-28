@@ -1,4 +1,4 @@
-# FastAPI Face Recognition API
+#Face Recognition for attendance
 
 This project is a face recognition API built using FastAPI and OpenCV. It uses a webcam to capture video, recognizes faces based on pre-loaded images from a specified folder, and logs recognized faces to a CSV file.
 
